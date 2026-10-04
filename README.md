@@ -148,6 +148,3 @@ The system generates detailed travel plans including:
 - Support for multi-destination trips
 - Language localization for international users
 - Interactive map integration for attractions
-
----
-*Built with ❤️ using Claude Code and the Supervisor/Worker AI agent pattern*
